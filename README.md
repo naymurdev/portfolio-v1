@@ -1,6 +1,6 @@
 # Alex Rivera, Portfolio
 
-Personal portfolio website for **Alex Rivera**, a [Your Role/Title] showcasing projects, experience, and skills.
+Personal portfolio website for **Alex Rivera**, a [Your Role] showcasing projects, experience, and skills.
 
 ## Sections
 
