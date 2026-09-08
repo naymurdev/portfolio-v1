@@ -13,12 +13,11 @@ Full-viewport intro section with name, title/tagline, and a short one-liner abou
 A short bio covering who you are, your background, and what drives you. Can include a profile photo, key skills/tech stack, and a downloadable resume/CV link.
 
 ### Skills
-Grid or list of technical skills, tools, and technologies grouped by category (e.g. Frontend, Backend, Tools/DevOps).
+Grid or list of technical skills, tools, and technologies grouped by category
 
 ### Work / Projects
 Showcase of featured projects. Each project card should include:
 - Project name and short description
-- Tech stack used
 - Live demo link and/or source code link
 - Screenshot or preview image
 
@@ -31,9 +30,6 @@ Way for visitors to get in touch — contact form and/or direct links (email, Li
 ### Footer
 Copyright, quick nav links, and social icons.
 
-## Tech Stack
-
-_TODO: fill in once decided (e.g. React, Next.js, Tailwind CSS, etc.)_
 
 ## Getting Started
 
